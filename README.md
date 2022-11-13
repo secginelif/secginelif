@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-<a href="https://steamcommunity.com/profiles/76561198182224539/">
+<h1>
   <img align="left" alt="Steam" width="130" hight="100" src="https://github.com/secginelif/secginelif/blob/main/assets/7zog.gif" />
-</a>
+</h1>
 
 <!--
 **secginelif/secginelif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

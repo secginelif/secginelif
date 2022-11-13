@@ -1,5 +1,19 @@
 ### Hi there 👋
+<p>I am computer programming and management information systems specialist.I know its too long. <br>
+  I have been working as a software developer for 2 years. <br>
+  I have made many websites.I am also developing projects. <br>
+  My fav language java...
+  I love learning new languages ​​and cultures
+  <br>
+  
+I've done a lot of designs for The Sims and I'm a big fan of the Sims.
+  <br>
+  <br>
+  we can play cs go in our spare time :))))
+                                                             
 
+  
+</p>
 <p>
   <img align="right" alt="Steam" width="50%" hight="30%" src="https://github.com/secginelif/secginelif/blob/main/assets/7zog.gif" />
 <p>

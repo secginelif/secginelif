@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Header](./github-header-image%20(1))
+![Header](./github-header-image (1).png)
 
 
 

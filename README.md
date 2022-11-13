@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Header](./github-header-image (1).png)
+![Header](https://github.com/secginelif/secginelif/blob/main/assets/github-header-image%20(1).png)
 
 
 

@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+<a href="https://steamcommunity.com/profiles/76561198182224539/">
+  <img align="left" alt="Steam" width="130" hight="100" src="https://github.com/secginelif/secginelif/blob/main/assets/7zog.gif" />
+</a>
+
 <!--
 **secginelif/secginelif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -26,7 +30,7 @@ Here are some ideas to get you started:
     <img src="svg/dev/frameworks/bootstrap.svg" alt="bootstrap" style="vertical-align:top; margin:6px 4px">
   </a>  
   
-    <a href="#">
+   <a href="#">
     <img src="svg/dev/frameworks/jquery.svg" alt="jquery" style="vertical-align:top; margin:6px 4px">
   </a> 
   
@@ -109,27 +113,3 @@ If you want to reach out to me about anything, be it some doubt or just to hango
  
  
  
- ## Streaming & Videos
-<p align="left">
-  <a href="#">
-    <img src="svg/streaming/mixer.svg" alt="mixer" style="vertical-align:top; margin:6px 4px">
-  </a>  
-  
-  <a href="#">
-    <img src="svg/streaming/podcast.svg" alt="podast" style="vertical-align:top; margin:6px 4px">
-  </a>  
-
-  <a href="#">
-    <img src="svg/streaming/twitch.svg" alt="twitch" style="vertical-align:top; margin:6px 4px">
-  </a>  
-
-  <a href="#">
-    <img src="svg/streaming/vimeo.svg" alt="vimeo" style="vertical-align:top; margin:6px 4px">
-  </a>  
-
-  <a href="#">
-    <img src="svg/streaming/youtube.svg" alt="youtube" style="vertical-align:top; margin:6px 4px">
-  </a>  
-
-</p>
-

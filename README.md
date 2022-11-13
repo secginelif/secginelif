@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <p>
-  <img align="left" alt="Steam" width="100%" hight="auto" src="https://github.com/secginelif/secginelif/blob/main/assets/7zog.gif" />
+  <img align="left" alt="Steam" width="100%" hight="300" src="https://github.com/secginelif/secginelif/blob/main/assets/7zog.gif" />
 <p>
 
 <br>

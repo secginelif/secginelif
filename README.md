@@ -1,4 +1,36 @@
 ### Hi there 👋
+<p>
+    <img align="right" alt="Steam" width="50%" hight="30%" src="https://github.com/secginelif/secginelif/blob/main/assets/7zog.gif" />
+
+  I am computer programming and management information systems specialist.I know its too long. <br>
+  I have been working as a software developer for 2 years. <br>
+  I have made many websites.I am also developing projects. <br>
+  My fav language java...
+  I love learning new languages ​​and cultures
+  <br>
+  
+I've done a lot of designs for The Sims and I'm a big fan of the Sims.
+  <br>
+  <br>
+  we can play cs go in our spare time :))))
+                                                             
+
+  
+<br>
+</p>
+
+
+<br>
+<br>
+<br>
+
+<br>
+
+<br>
+
+<br>
+<br>
+
 
 <!--
 **secginelif/secginelif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -26,7 +58,7 @@ Here are some ideas to get you started:
     <img src="svg/dev/frameworks/bootstrap.svg" alt="bootstrap" style="vertical-align:top; margin:6px 4px">
   </a>  
   
-    <a href="#">
+   <a href="#">
     <img src="svg/dev/frameworks/jquery.svg" alt="jquery" style="vertical-align:top; margin:6px 4px">
   </a> 
   
@@ -109,27 +141,3 @@ If you want to reach out to me about anything, be it some doubt or just to hango
  
  
  
- ## Streaming & Videos
-<p align="left">
-  <a href="#">
-    <img src="svg/streaming/mixer.svg" alt="mixer" style="vertical-align:top; margin:6px 4px">
-  </a>  
-  
-  <a href="#">
-    <img src="svg/streaming/podcast.svg" alt="podast" style="vertical-align:top; margin:6px 4px">
-  </a>  
-
-  <a href="#">
-    <img src="svg/streaming/twitch.svg" alt="twitch" style="vertical-align:top; margin:6px 4px">
-  </a>  
-
-  <a href="#">
-    <img src="svg/streaming/vimeo.svg" alt="vimeo" style="vertical-align:top; margin:6px 4px">
-  </a>  
-
-  <a href="#">
-    <img src="svg/streaming/youtube.svg" alt="youtube" style="vertical-align:top; margin:6px 4px">
-  </a>  
-
-</p>
-

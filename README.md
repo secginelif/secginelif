@@ -105,3 +105,31 @@ If you want to reach out to me about anything, be it some doubt or just to hango
   <img align="left" alt="Steam" width="130" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/steam.png" />
 </a>
  </p>
+ 
+ 
+ 
+ 
+ ## Streaming & Videos
+<p align="left">
+  <a href="#">
+    <img src="svg/streaming/mixer.svg" alt="mixer" style="vertical-align:top; margin:6px 4px">
+  </a>  
+  
+  <a href="#">
+    <img src="svg/streaming/podcast.svg" alt="podast" style="vertical-align:top; margin:6px 4px">
+  </a>  
+
+  <a href="#">
+    <img src="svg/streaming/twitch.svg" alt="twitch" style="vertical-align:top; margin:6px 4px">
+  </a>  
+
+  <a href="#">
+    <img src="svg/streaming/vimeo.svg" alt="vimeo" style="vertical-align:top; margin:6px 4px">
+  </a>  
+
+  <a href="#">
+    <img src="svg/streaming/youtube.svg" alt="youtube" style="vertical-align:top; margin:6px 4px">
+  </a>  
+
+</p>
+

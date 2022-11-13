@@ -4,6 +4,17 @@
   <img align="left" alt="Steam" width="130" hight="100" src="https://github.com/secginelif/secginelif/blob/main/assets/7zog.gif" />
 </h1>
 
+<br>
+<br>
+
+<br>
+
+<br>
+
+<br>
+<br>
+
+
 <!--
 **secginelif/secginelif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

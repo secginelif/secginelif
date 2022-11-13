@@ -15,30 +15,121 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+
+### Frameworks 
+<p align="left">
+  <a href="#">
+    <img src="svg/dev/frameworks/angular.svg" alt="angular" style="vertical-align:top; margin:6px 4px">
+  </a>  
+  
+   <a href="#">
+    <img src="svg/dev/frameworks/bootstrap.svg" alt="bootstrap" style="vertical-align:top; margin:6px 4px">
+  </a>  
+  
+    <a href="#">
+    <img src="svg/dev/frameworks/jquery.svg" alt="jquery" style="vertical-align:top; margin:6px 4px">
+  </a> 
+  
+</p>
+
+### Languages 
+<p align="left">
+  <a href="#">
+    <img src="svg/dev/languages/html.svg" alt="html" style="vertical-align:top; margin:6px 4px">
+  </a>  
+  <a href="#">
+    <img src="svg/dev/languages/css3.svg" alt="css3" style="vertical-align:top; margin:6px 4px">
+  </a>  
+  
+  <a href="#">
+    <img src="svg/dev/languages/js.svg" alt="js" style="vertical-align:top; margin:6px 4px">
+  </a>  
+  <a href="#">
+    <img src="svg/dev/languages/python.svg" alt="python" style="vertical-align:top; margin:6px 4px">
+  </a>  
+  
+   <a href="#">
+    <img src="svg/dev/languages/java.svg" alt="java" style="vertical-align:top; margin:6px 4px">
+  </a> 
+   <a href="#">
+    <img src="svg/dev/languages/csharp.svg" alt="csharp" style="vertical-align:top; margin:6px 4px">
+  </a>  
+ </p>
+  
+  ### Services 
+  
+  
+  <a href="#">
+    <img src="svg/dev/services/hackerrank.svg" alt="hackerrank" style="vertical-align:top; margin:6px 4px">
+  </a> 
+   <a href="#">
+    <img src="svg/dev/services/office_365.svg" alt="office 365" style="vertical-align:top; margin:6px 4px">
+  </a> 
+
+</p>
+
+### Tools
+<p align="left">
+  <a href="#">
+    <img src="svg/dev/tools/android_studio.svg" alt="android_studio" style="vertical-align:top; margin:6px 4px">
+  </a> 
+  <a href="#">
+    <img src="svg/dev/tools/visualstudio.svg" alt="visualstudio" style="vertical-align:top; margin:6px 4px">
+  </a> 
+
+  <a href="https://www.hackerrank.com/econ248?hr_r=1">
+    <img src="svg/dev/tools/visualstudio_code.svg" alt="visualstudio_code" style="vertical-align:top; margin:6px 4px">
+  </a> 
+
+
 # Contact Me :
 
 <p>
  </br>
 
 
-<img hight="320" width="450" align="right" alt="GIF" src="https://tenor.com/view/seductive-dance-gif-25256217">
+<img hight="320" width="450" align="right" alt="GIF" src="https://github.com/secginelif/secginelif/blob/main/assets/5GJg.gif">
 
 
 If you want to reach out to me about anything, be it some doubt or just to hangout and talk or want to game together just ping me 😉.
 
-<a href="mailto:ashutosh.saxena.2001@gmail.com">
+<a href="mailto:secelif.secgin@gmail.com">
  <img align="left" alt="Gmail" width="130" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/gmail.png" />
 </a>
-<a href="https://www.linkedin.com/in/ashutosh-saxena-7b326817b/">
+<a href="https://www.linkedin.com/in/elif-se%C3%A7gin-99193a208/">
   <img align="left" alt="Linkedin" width="150" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/linkedin.png" />
 </br>
 </br>
 </br>
-</a>
-<a href="https://www.hackerrank.com/econ248?hr_r=1">
-  <img align="left" alt=" Reddit" width="130" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/reddit.png" />
-</a>
 <a href="https://steamcommunity.com/profiles/76561198182224539/">
   <img align="left" alt="Steam" width="130" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/steam.png" />
 </a>
  </p>
+ 
+ 
+ 
+ 
+ ## Streaming & Videos
+<p align="left">
+  <a href="#">
+    <img src="svg/streaming/mixer.svg" alt="mixer" style="vertical-align:top; margin:6px 4px">
+  </a>  
+  
+  <a href="#">
+    <img src="svg/streaming/podcast.svg" alt="podast" style="vertical-align:top; margin:6px 4px">
+  </a>  
+
+  <a href="#">
+    <img src="svg/streaming/twitch.svg" alt="twitch" style="vertical-align:top; margin:6px 4px">
+  </a>  
+
+  <a href="#">
+    <img src="svg/streaming/vimeo.svg" alt="vimeo" style="vertical-align:top; margin:6px 4px">
+  </a>  
+
+  <a href="#">
+    <img src="svg/streaming/youtube.svg" alt="youtube" style="vertical-align:top; margin:6px 4px">
+  </a>  
+
+</p>
+

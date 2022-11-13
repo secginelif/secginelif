@@ -11,12 +11,12 @@ I've done a lot of designs for The Sims and I'm a big fan of the Sims.
   <br>
   we can play cs go in our spare time :))))
                                                              
+  <img align="right" alt="Steam" width="50%" hight="30%" src="https://github.com/secginelif/secginelif/blob/main/assets/7zog.gif" />
 
   
 </p>
-<p>
-  <img align="right" alt="Steam" width="50%" hight="30%" src="https://github.com/secginelif/secginelif/blob/main/assets/7zog.gif" />
-<p>
+
+
 <br>
 <br>
 <br>

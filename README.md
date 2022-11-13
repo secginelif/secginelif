@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 <p>
-  <img align="left" alt="Steam" width="50%" hight="30%" src="https://github.com/secginelif/secginelif/blob/main/assets/7zog.gif" />
+  <img align="right" alt="Steam" width="50%" hight="30%" src="https://github.com/secginelif/secginelif/blob/main/assets/7zog.gif" />
 <p>
-
+<br>
 <br>
 <br>
 

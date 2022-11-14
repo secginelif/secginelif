@@ -17,8 +17,10 @@
   <br>
 My new goal's learning russian.If you wanna help me i m glad.
   
-I've done a lot of designs for The Sims and I'm a big fan of the Sims.
-    <img align="right" alt="Steam" width="50" hight="30" src="https://github.com/secginelif/secginelif/blob/main/assets/giphy.gif" />
+    <span>
+         <img align="right" alt="Steam" width="30" hight="30" src="https://github.com/secginelif/secginelif/blob/main/assets/giphy.gif" />
+        I've done a lot of designs for The Sims and I'm a big fan of the Sims.
+    </span>
   <br>
   <br>
   we can play cs go in our spare time 😉

@@ -1,18 +1,26 @@
-### Hi there 👋
+
+
+![Header](https://github.com/secginelif/secginelif/blob/main/assets/github-header-image%20(1).png)
+
+<br>
+
+
 <p>
     <img align="right" alt="Steam" width="50%" hight="30%" src="https://github.com/secginelif/secginelif/blob/main/assets/7zog.gif" />
+    <br>
 
-  I am computer programming and management information systems specialist.I know its too long. <br>
+  I am a computer programmer and management information systems specialist.I know its too long. <br>
   I have been working as a software developer for 2 years. <br>
   I have made many websites.I am also developing projects. <br>
-  My fav language java...
+  My fav language's java...
   I love learning new languages ​​and cultures
   <br>
+My new goal's learning russian.If you wanna help me i m glad.
   
 I've done a lot of designs for The Sims and I'm a big fan of the Sims.
   <br>
   <br>
-  we can play cs go in our spare time :))))
+  we can play cs go in our spare time 😉
                                                              
 
   
@@ -123,7 +131,7 @@ Here are some ideas to get you started:
 <img hight="320" width="450" align="right" alt="GIF" src="https://github.com/secginelif/secginelif/blob/main/assets/5GJg.gif">
 
 
-If you want to reach out to me about anything, be it some doubt or just to hangout and talk or want to game together just ping me 😉.
+If you want to reach out to me about anything, be it some doubt or just to hangout and talk or want to game together just ping me 😉😉😉.
 
 <a href="mailto:secelif.secgin@gmail.com">
  <img align="left" alt="Gmail" width="130" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/gmail.png" />
@@ -133,7 +141,7 @@ If you want to reach out to me about anything, be it some doubt or just to hango
 </br>
 </br>
 </br>
-<a href="https://steamcommunity.com/profiles/76561198182224539/">
+<a href="https://steamcommunity.com/profiles/76561198890427601/">
   <img align="left" alt="Steam" width="130" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/steam.png" />
 </a>
  </p>

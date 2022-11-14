@@ -9,12 +9,13 @@
     <img align="right" alt="Steam" width="50%" hight="30%" src="https://github.com/secginelif/secginelif/blob/main/assets/7zog.gif" />
     <br>
 
-  I am computer programming and management information systems specialist.I know its too long. <br>
+  I am a computer programmer and management information systems specialist.I know its too long. <br>
   I have been working as a software developer for 2 years. <br>
   I have made many websites.I am also developing projects. <br>
-  My fav language java...
+  My fav language's java...
   I love learning new languages ​​and cultures
   <br>
+My new goal's learning russian.If you wanna help me i m glad.
   
 I've done a lot of designs for The Sims and I'm a big fan of the Sims.
   <br>

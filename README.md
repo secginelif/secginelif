@@ -17,7 +17,8 @@
   <br>
 My new goal's learning russian.If you wanna help me i m glad.
       
-        I've done a lot of designs for The Sims and I'm a big fan of the Sims.
+I've done a lot of designs for The Sims and I'm a big fan of the Sims.
+    
   <br>
   <br>
   we can play cs go in our spare time 😉

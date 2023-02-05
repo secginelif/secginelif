@@ -60,15 +60,10 @@ Here are some ideas to get you started:
 
 ### Skills
 <p align="left">
-  [My Skills](https://skills.thijs.gg/icons?i=js,html,css,wasm)](https://skills.thijs.gg) 
-  
-   <a href="#">
-    <img src="svg/dev/frameworks/bootstrap.svg" alt="bootstrap" style="vertical-align:top; margin:6px 4px">
-  </a>  
-  
-   <a href="#">
-    <img src="svg/dev/frameworks/jquery.svg" alt="jquery" style="vertical-align:top; margin:6px 4px">
-  </a> 
+   <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,androidstudio,bootstrap,css,docker,express,figma,html,ai,java,js,jquery,materialui,mongodb,mysql,nextjs,nodejs,ps,
+              pr,react,redux,sass,ts,xd,wordpress" />
+  </a>
   
 </p>
 

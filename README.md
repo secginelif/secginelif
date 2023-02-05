@@ -59,12 +59,11 @@ Here are some ideas to get you started:
 
 
 ### Skills
-<p align="center">
-    <img src="https://skillicons.dev/icons?i=git,androidstudio,bootstrap,css,docker,express,figma,html,ai,java,js,jquery,materialui,mongodb,mysql,nextjs,nodejs,ps,
-              pr,react,redux,sass,ts,xd,wordpress"  style="vertical-align:top; margin:6px 4px" />
+<p align="right">
+    <img src="https://skillicons.dev/icons?i=git,androidstudio,bootstrap,css,docker,express,figma,html,ai,java,js,jquery,materialui,mongodb,mysql,nextjs,nodejs,ps,pr,react,redux,sass,ts,xd,wordpress"  style="vertical-align:top; margin:6px 4px" />
 </p>
 
-<p align="center">
+<p align="right">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
   </a>

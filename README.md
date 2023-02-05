@@ -60,11 +60,8 @@ Here are some ideas to get you started:
 
 ### Skills
 <p align="left">
-   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,androidstudio,bootstrap,css,docker,express,figma,html,ai,java,js,jquery,materialui,mongodb,mysql,nextjs,nodejs,ps,
-              pr,react,redux,sass,ts,xd,wordpress" />
-  </a>
-  
+              pr,react,redux,sass,ts,xd,wordpress"  style="vertical-align:top; margin:6px 4px" />
 </p>
 
 

@@ -59,15 +59,10 @@ Here are some ideas to get you started:
 
 
 ### Skills
-<p align="right">
+<p align="left">
     <img src="https://skillicons.dev/icons?i=git,androidstudio,bootstrap,css,docker,express,figma,html,ai,java,js,jquery,materialui,mongodb,mysql,nextjs,nodejs,ps,pr,react,redux,sass,ts,xd,wordpress"  style="vertical-align:top; margin:6px 4px" />
 </p>
 
-<p align="right">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
-  </a>
-</p
 
 
   ### Services 

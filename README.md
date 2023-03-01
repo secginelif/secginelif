@@ -102,15 +102,15 @@ Here are some ideas to get you started:
 
 If you want to reach out to me about anything, be it some doubt or just to hangout and talk or want to game together just ping me 😉😉😉.
 
-<a href="mailto:secelif.secgin@gmail.com">
+<a href="mailto:secelif.secgin@gmail.com" target="_blank">
  <img align="left" alt="Gmail" width="130" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/gmail.png" />
 </a>
-<a href="https://www.linkedin.com/in/elif-se%C3%A7gin-99193a208/">
+<a href="https://www.linkedin.com/in/elif-se%C3%A7gin-99193a208/"  target="_blank" >
   <img align="left" alt="Linkedin" width="150" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/linkedin.png" />
 </br>
 </br>
 </br>
-<a href="https://steamcommunity.com/profiles/76561198890427601/">
+<a href="https://steamcommunity.com/profiles/76561198890427601/"   target="_blank">
   <img align="left" alt="Steam" width="130" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/steam.png" />
 </a>
  </p>

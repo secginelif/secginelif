@@ -68,7 +68,7 @@ Here are some ideas to get you started:
   ### Services 
   
   
-  <a href="#">
+  <a href="https://www.hackerrank.com/econ248">
     <img src="svg/dev/services/hackerrank.svg" alt="hackerrank" style="vertical-align:top; margin:6px 4px">
   </a> 
    <a href="#">

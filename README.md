@@ -80,9 +80,6 @@ Here are some ideas to get you started:
 ### Tools
 <p align="left">
   <a href="#">
-    <img src="svg/dev/tools/android_studio.svg" alt="android_studio" style="vertical-align:top; margin:6px 4px">
-  </a> 
-  <a href="#">
     <img src="svg/dev/tools/visualstudio.svg" alt="visualstudio" style="vertical-align:top; margin:6px 4px">
   </a> 
 

@@ -60,7 +60,7 @@ Here are some ideas to get you started:
 
 ### Skills
 <p align="left">
-    <img src="https://skillicons.dev/icons?i=git,androidstudio,bootstrap,css,docker,express,figma,html,ai,java,js,jquery,materialui,mongodb,mysql,nextjs,nodejs,ps,pr,react,redux,sass,ts,xd,wordpress"  style="vertical-align:top; margin:6px 4px" />
+    <img src="https://skillicons.dev/icons?i=git,docker,html,css,sass,bootstrap,js,jquery,express,nextjs,nodejs,react,redux,ts,mongodb,sql,figma,ai,ps,pr"  style="vertical-align:top; margin:6px 4px" />
 </p>
 
 

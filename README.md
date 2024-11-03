@@ -10,8 +10,9 @@
     <br>
 
   I am a computer programmer and management information systems specialist.I know its too long. <br>
-  I have been working as a software developer for 3 years. <br>
-  I have made many websites.I am also developing projects. <br>
+  
+  I have been working as a software developer for 3.5 years. <br>
+  I have made many websites and web apps.I am also developing projects. <br>
   My fav language's java...
   I love learning new languages ​​and cultures
   <br>
@@ -60,7 +61,7 @@ Here are some ideas to get you started:
 
 ### Skills
 <p align="left">
-    <img src="https://skillicons.dev/icons?i=git,docker,html,css,sass,bootstrap,js,jquery,express,nextjs,nodejs,react,redux,ts,mongodb,sql,figma,ai,ps,pr"  style="vertical-align:top; margin:6px 4px" />
+    <img src="https://skillicons.dev/icons?i=git,docker,html,css,sass,bootstrap,js,jquery,express,nextjs,nodejs,react,redux,ts,mongodb,sql,figma,ai,ps,pr,react-native"  style="vertical-align:top; margin:6px 4px" />
 </p>
 
 

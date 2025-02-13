@@ -9,7 +9,7 @@
     <img align="right" alt="Steam" width="50%" hight="30%" src="https://github.com/secginelif/secginelif/blob/main/assets/7zog.gif" />
     <br>
 
-  I am a computer programmer and management information systems specialist.I know its too long. <br>
+  I am a software developer and management information systems specialist.I know its too long. <br>
   
   I have been working as a software developer for 3.5 years. <br>
   I have made many websites and web apps.I am also developing projects. <br>
